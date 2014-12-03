@@ -1,0 +1,1028 @@
+Aharon_Barak=1936-09-16=24
+Aharon_Barak=1995-08-13=26
+Aharon_Barak=2006-09-14=74
+Aharon_Barak=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Aharon_Barak=<http://dbpedia.org/resource/Category:Living_people>=495515
+Aharon_Barak=<http://dbpedia.org/resource/Category:Harvard_University_alumni>=6546
+Aharon_Barak=<http://dbpedia.org/resource/Category:1936_births>=4323
+Aharon_Barak=<http://dbpedia.org/resource/Category:People_from_Kaunas>=87
+Aharon_Barak=<http://dbpedia.org/resource/Lithuania>=4397
+Aharon_Barak=<http://dbpedia.org/resource/Category:Lithuanian_Jews>=155
+Aharon_Barak=<http://dbpedia.org/resource/Category:Yale_Law_School_faculty>=72
+Aharon_Barak=<http://dbpedia.org/resource/Category:Members_of_the_Israel_Academy_of_Sciences_and_Humanities>=98
+Aharon_Barak=<http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_faculty>=192
+Aharon_Barak=<http://dbpedia.org/resource/Kaunas>=174
+Aharon_Barak=<http://dbpedia.org/resource/Hebrew_University_of_Jerusalem>=140
+Aharon_Barak=<http://dbpedia.org/resource/Category:Attorneys_General_of_Israel>=13
+Aharon_Barak=<http://dbpedia.org/resource/Category:University_of_Toronto_Faculty_of_Law_faculty>=18
+Aharon_Barak=<http://dbpedia.org/resource/Category:Interdisciplinary_Center_faculty>=11
+Aharon_Barak=<http://dbpedia.org/resource/Category:Israel_Prize_in_law_recipients>=14
+Aharon_Barak=<http://dbpedia.org/resource/Category:Chief_Justices_of_the_Supreme_Court_of_Israel>=9
+Aharon_Barak=<http://dbpedia.org/resource/Dorit_Beinisch>=6
+Aharon_Barak=<http://dbpedia.org/resource/Israel>=12875
+Aharon_Barak=<http://dbpedia.org/ontology/Person>=363957
+Aharon_Barak=<http://dbpedia.org/ontology/Judge>=1086
+Aharon_Barak=<http://xmlns.com/foaf/0.1/Person>=296596
+Aharon_Barak=<http://dbpedia.org/resource/Template:Persondata>=68481
+Aharon_Barak=<http://dbpedia.org/resource/Template:Infobox_Judge>=180
+Aharon_Barak=<http://en.wikipedia.org/wiki/Aharon_Barak>=1
+Aharon_Barak=Israel=353
+Aharon_Barak=Hebrew University of Jerusalem=12
+Aharon_Barak=180px=1650
+Aharon_Barak=Kaunas, Lithuania=38
+Aharon_Barak=Barak, Aharon=1
+Aharon_Barak=Dorit Beinisch=3
+Aharon_Barak=Meir Shamgar=3
+Aharon_Barak=President of the Supreme Court of Israel=14
+Aharon_Barak=Aharon Barak=9
+Aharon_Barak=Barak=8
+Aharon_Barak=Aharon=24
+Alex_Kapranos=1972-03-20=63
+Alex_Kapranos=1990-01-01 00:00:00=5963
+Alex_Kapranos=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Alex_Kapranos=<http://dbpedia.org/resource/Category:Living_people>=495515
+Alex_Kapranos=<http://dbpedia.org/resource/Author>=3303
+Alex_Kapranos=<http://dbpedia.org/resource/Category:2000s_singers>=976
+Alex_Kapranos=<http://dbpedia.org/resource/Category:1990s_singers>=588
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_singer-songwriters>=73
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_male_singers>=106
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_people_of_Greek_descent>=63
+Alex_Kapranos=<http://dbpedia.org/resource/Category:1972_births>=7029
+Alex_Kapranos=<http://dbpedia.org/resource/Category:2010s_singers>=868
+Alex_Kapranos=<http://dbpedia.org/resource/Category:Ivor_Novello_Award_winners>=234
+Alex_Kapranos=<http://dbpedia.org/resource/England>=101966
+Alex_Kapranos=<http://dbpedia.org/resource/Guitar>=8996
+Alex_Kapranos=<http://dbpedia.org/resource/Guitarist>=1393
+Alex_Kapranos=<http://dbpedia.org/resource/Category:People_from_South_Gloucestershire_%28district%29>=18
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_songwriters>=122
+Alex_Kapranos=<http://dbpedia.org/resource/Scotland>=26096
+Alex_Kapranos=<http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Strathclyde>=77
+Alex_Kapranos=<http://dbpedia.org/resource/Gloucestershire>=906
+Alex_Kapranos=<http://dbpedia.org/resource/Glasgow>=2721
+Alex_Kapranos=<http://dbpedia.org/resource/Songwriter>=5463
+Alex_Kapranos=<http://dbpedia.org/resource/Indie_rock>=15416
+Alex_Kapranos=<http://dbpedia.org/resource/Alternative_rock>=28200
+Alex_Kapranos=<http://dbpedia.org/resource/Domino_Records>=280
+Alex_Kapranos=<http://dbpedia.org/resource/Franz_Ferdinand_%28band%29>=292
+Alex_Kapranos=<http://dbpedia.org/resource/Almondsbury>=15
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_rock_guitarists>=21
+Alex_Kapranos=<http://dbpedia.org/resource/Indie_pop>=1644
+Alex_Kapranos=<http://dbpedia.org/resource/Category:Franz_Ferdinand_members>=4
+Alex_Kapranos=<http://dbpedia.org/resource/Category:British_rock_singers>=13
+Alex_Kapranos=<http://dbpedia.org/resource/Fender_Telecaster_Deluxe>=27
+Alex_Kapranos=<http://dbpedia.org/resource/Post-punk_revival>=858
+Alex_Kapranos=<http://dbpedia.org/resource/The_Karelia>=12
+Alex_Kapranos=<http://dbpedia.org/resource/Gibson_Les_Paul_Junior>=30
+Alex_Kapranos=<http://dbpedia.org/ontology/Person>=363957
+Alex_Kapranos=<http://dbpedia.org/ontology/Artist>=83870
+Alex_Kapranos=<http://xmlns.com/foaf/0.1/Person>=296596
+Alex_Kapranos=<http://dbpedia.org/ontology/MusicalArtist>=28312
+Alex_Kapranos=<http://dbpedia.org/resource/Yummy_Fur>=14
+Alex_Kapranos=<http://www.franzferdinand.co.uk>=5
+Alex_Kapranos=<http://dbpedia.org/resource/Template:Persondata>=68481
+Alex_Kapranos=<http://dbpedia.org/resource/Template:Infobox_musical_artist>=11284
+Alex_Kapranos=<http://dbpedia.org/resource/Vocals>=3539
+Alex_Kapranos=<http://dbpedia.org/resource/Record_Producer>=252
+Alex_Kapranos=<http://en.wikipedia.org/wiki/Alex_Kapranos>=1
+Alex_Kapranos=solo_singer=44744
+Alex_Kapranos=Alex=457
+Alex_Kapranos=The Amphetameanies=2
+Alex_Kapranos=1990.0=509
+Alex_Kapranos=Glasgow, Scotland=321
+Alex_Kapranos=Vocals, Guitar=115
+Alex_Kapranos=Fender Telecaster Deluxe=6
+Alex_Kapranos=Domino Records=18
+Alex_Kapranos=Franz Ferdinand=23
+Alex_Kapranos=Kapranos, Alex=1
+Alex_Kapranos=Gibson Les Paul Junior Double Cut=1
+Alex_Kapranos=http://www.franzferdinand.co.uk=3
+Alex_Kapranos=The Karelia=3
+Alex_Kapranos=The Yummy Fur=5
+Alex_Kapranos=Indie popArt rock=1
+Alex_Kapranos=Gibson SGFender 1952 Telecaster=1
+Alex_Kapranos=Worn Cherry Gibson Les Paul Junior Double-cut=1
+Alex_Kapranos=Fender 1972 Telecaster Deluxe=1
+Alex_Kapranos=Guitarist, Songwriter, Producer, Writer=1
+Alex_Kapranos=Almondsbury, Gloucestershire, England=1
+Alex_Kapranos=Alexander Paul Kapranos Huntley=4
+Alex_Kapranos=Alex Kapranos performing at the Kool Haus in Toronto, 2007=1
+Alex_Kapranos=Alex Kapranos by Robert Hardy.jpg=1
+Alex_Kapranos=Alex Kapranos=12
+Alex_Kapranos=Kapranos=1
+Alexander_McCall_Smith=1948-08-24=57
+Alexander_McCall_Smith=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Living_people>=495515
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Edinburgh>=884
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:People_associated_with_Edinburgh>=59
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Edinburgh>=352
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Academics_of_the_University_of_Edinburgh>=242
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Commanders_of_the_Order_of_the_British_Empire>=2156
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:1948_births>=6604
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Bioethics>=119
+Alexander_McCall_Smith=<http://dbpedia.org/resource/British_Empire>=9575
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:British_Book_Awards>=77
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Scottish_novelists>=163
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Rhodesia>=299
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Scottish_short_story_writers>=30
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Scottish_children%27s_writers>=33
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Scotland>=26096
+Alexander_McCall_Smith=<http://dbpedia.org/resource/United_Kingdom>=88136
+Alexander_McCall_Smith=<http://dbpedia.org/resource/W._H._Auden>=167
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Medical_law>=36
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Crime_fiction>=495
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Scottish_crime_fiction_writers>=27
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Zimbabwean_novelists>=13
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Rhodesian_people>=25
+Alexander_McCall_Smith=<http://dbpedia.org/resource/R._K._Narayan>=52
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Bulawayo>=103
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Scottish_legal_scholars>=26
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Zimbabwean_short_story_writers>=3
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Zimbabwean_crime_fiction_writers>=1
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:Zimbabwean_children%27s_writers>=4
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Category:People_from_Bulawayo>=21
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Fiction>=945
+Alexander_McCall_Smith=<http://dbpedia.org/ontology/Person>=363957
+Alexander_McCall_Smith=<http://dbpedia.org/ontology/Artist>=83870
+Alexander_McCall_Smith=<http://xmlns.com/foaf/0.1/Person>=296596
+Alexander_McCall_Smith=<http://dbpedia.org/ontology/Writer>=10103
+Alexander_McCall_Smith=<http://www.alexandermccallsmith.co.uk/>=1
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Template:Persondata>=68481
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Template:Infobox_writer>=548
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Children%27s_books>=65
+Alexander_McCall_Smith=<http://dbpedia.org/resource/Edward_Frederic_Benson>=8
+Alexander_McCall_Smith=<http://en.wikipedia.org/wiki/Alexander_McCall_Smith>=1
+Alexander_McCall_Smith=United Kingdom=5236
+Alexander_McCall_Smith=Alexander=831
+Alexander_McCall_Smith=Scottish=354
+Alexander_McCall_Smith=Alexander McCall Smith=12
+Alexander_McCall_Smith=Bulawayo, Rhodesia=6
+Alexander_McCall_Smith=Maccall Smith, Alexander=1
+Alexander_McCall_Smith=http://www.alexandermccallsmith.co.uk/=1
+Alexander_McCall_Smith=W. H. Auden, R. K. Narayan, E. F. Benson=1
+Alexander_McCall_Smith=Fiction, Crime fiction, Children's books=1
+Alexander_McCall_Smith=Maccall Smith=1
+Alexander_McCall_Smith=Alexander Maccall Smith=1
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:Living_people>=495515
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:Atheism_activists>=146
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:American_atheists>=351
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:1955_births>=6240
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:University_of_Wisconsin%E2%80%93Madison_alumni>=644
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:Freethought>=44
+Annie_Laurie_Gaylor=<http://dbpedia.org/resource/Category:People_from_Monroe_County,_Wisconsin>=20
+Annie_Laurie_Gaylor=<http://en.wikipedia.org/wiki/Annie_Laurie_Gaylor>=1
+Annie_Laurie_Gaylor=Annie Laurie Gaylor=1
+Bill_Coen=1979-01-01 00:00:00=3674
+Bill_Coen=1983-01-01 00:00:00=3962
+Bill_Coen=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Bill_Coen=<http://dbpedia.org/resource/Category:Living_people>=495515
+Bill_Coen=<http://dbpedia.org/resource/Category:Year_of_birth_missing_%28living_people%29>=47251
+Bill_Coen=<http://dbpedia.org/resource/Category:Hamilton_College_alumni>=164
+Bill_Coen=<http://dbpedia.org/resource/Category:College_men%27s_basketball_head_coaches_in_the_United_States>=498
+Bill_Coen=<http://dbpedia.org/resource/Category:American_basketball_players>=3315
+Bill_Coen=<http://dbpedia.org/resource/Category:Place_of_birth_missing_%28living_people%29>=6445
+Bill_Coen=<http://dbpedia.org/resource/Category:American_basketball_coaches>=1128
+Bill_Coen=<http://dbpedia.org/resource/Boston_College>=299
+Bill_Coen=<http://dbpedia.org/resource/Category:Boston_College_Eagles_men%27s_basketball_coaches>=23
+Bill_Coen=<http://dbpedia.org/resource/Hamilton_College>=85
+Bill_Coen=<http://dbpedia.org/resource/Category:College_men%27s_basketball_players_in_the_United_States>=393
+Bill_Coen=<http://dbpedia.org/resource/Category:Northeastern_Huskies_men%27s_basketball_coaches>=10
+Bill_Coen=<http://dbpedia.org/resource/Category:Rhode_Island_Rams_men%27s_basketball_coaches>=18
+Bill_Coen=<http://dbpedia.org/resource/United_States>=412608
+Bill_Coen=<http://dbpedia.org/resource/University_of_Rhode_Island>=101
+Bill_Coen=<http://dbpedia.org/ontology/Person>=363957
+Bill_Coen=<http://xmlns.com/foaf/0.1/Person>=296596
+Bill_Coen=<http://dbpedia.org/ontology/CollegeCoach>=4042
+Bill_Coen=<http://dbpedia.org/resource/Northeastern_University_%28Boston,_Massachusetts%29>=52
+Bill_Coen=<http://en.wikipedia.org/wiki/Bill_Coen>=1
+Bill_Coen=Head coach=1782
+Bill_Coen=Coen=12
+Bill_Coen=Bill=1422
+Bill_Coen=Bill Coen=4
+Charlie_Savage=<http://dbpedia.org/resource/Category:Living_people>=495515
+Charlie_Savage=<http://dbpedia.org/resource/Category:Harvard_University_alumni>=6546
+Charlie_Savage=<http://dbpedia.org/resource/Category:Yale_Law_School_alumni>=470
+Charlie_Savage=<http://dbpedia.org/resource/Category:New_York_Times_people>=314
+Charlie_Savage=<http://dbpedia.org/resource/Category:1975_births>=7309
+Charlie_Savage=<http://dbpedia.org/resource/Category:People_from_Fort_Wayne,_Indiana>=147
+Charlie_Savage=<http://dbpedia.org/resource/Category:Boston_Globe_people>=51
+Charlie_Savage=<http://dbpedia.org/resource/Category:Pulitzer_Prize_for_National_Reporting_winners>=30
+Charlie_Savage=<http://en.wikipedia.org/wiki/Charlie_Savage>=1
+Charlie_Savage=Charlie Savage=1
+Darren_Rowse=1972-04-27=36
+Darren_Rowse=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Darren_Rowse=<http://dbpedia.org/resource/Category:Living_people>=495515
+Darren_Rowse=<http://dbpedia.org/resource/Category:1972_births>=7029
+Darren_Rowse=<http://dbpedia.org/resource/Category:Australian_bloggers>=41
+Darren_Rowse=<http://dbpedia.org/resource/Category:Bloggers_from_Melbourne>=9
+Darren_Rowse=<http://dbpedia.org/resource/Melbourne>=2615
+Darren_Rowse=<http://dbpedia.org/ontology/Person>=363957
+Darren_Rowse=<http://dbpedia.org/ontology/Artist>=83870
+Darren_Rowse=<http://dbpedia.org/ontology/Writer>=10103
+Darren_Rowse=<http://www.problogger.com>=1
+Darren_Rowse=<http://digital-photography-school.com/>=1
+Darren_Rowse=<http://en.wikipedia.org/wiki/Darren_Rowse>=1
+Darren_Rowse=Darren Rowse=4
+Douglas_Carswell=2010=2764
+Douglas_Carswell=12068=11
+Douglas_Carswell=12068=11
+Douglas_Carswell=1971-05-03=75
+Douglas_Carswell=2005-05-05=1178
+Douglas_Carswell=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Living_people>=495515
+Douglas_Carswell=<http://dbpedia.org/resource/Category:UK_MPs_2005%E2%80%932010>=659
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_English_constituencies>=6201
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Conservative_MPs_%28UK%29>=2876
+Douglas_Carswell=<http://dbpedia.org/resource/Category:1971_births>=7085
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Alumni_of_King%27s_College_London>=731
+Douglas_Carswell=<http://dbpedia.org/resource/Category:British_libertarians>=37
+Douglas_Carswell=<http://dbpedia.org/resource/Category:UK_MPs_2010%E2%80%93>=651
+Douglas_Carswell=<http://dbpedia.org/resource/London>=20851
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Alumni_of_the_University_of_East_Anglia>=221
+Douglas_Carswell=<http://dbpedia.org/resource/United_Kingdom>=176272
+Douglas_Carswell=<http://dbpedia.org/resource/Conservative_Party_%28UK%29>=2767
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Old_Carthusians>=286
+Douglas_Carswell=<http://dbpedia.org/resource/City_of_Westminster>=335
+Douglas_Carswell=<http://dbpedia.org/resource/King%27s_College_London>=321
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Libertarian_politicians>=25
+Douglas_Carswell=<http://dbpedia.org/resource/University_of_East_Anglia>=230
+Douglas_Carswell=<http://dbpedia.org/resource/Category:Writers_about_direct_democracy>=10
+Douglas_Carswell=<http://dbpedia.org/resource/Harwich_%28UK_Parliament_constituency%29>=31
+Douglas_Carswell=<http://dbpedia.org/resource/Clacton_%28UK_Parliament_constituency%29>=7
+Douglas_Carswell=<http://dbpedia.org/ontology/Politician>=20705
+Douglas_Carswell=<http://dbpedia.org/ontology/Person>=363957
+Douglas_Carswell=<http://dbpedia.org/ontology/MemberOfParliament>=4348
+Douglas_Carswell=<http://xmlns.com/foaf/0.1/Person>=296596
+Douglas_Carswell=<http://www.douglascarswell.com/>=1
+Douglas_Carswell=<http://dbpedia.org/resource/Template:Persondata>=68481
+Douglas_Carswell=<http://dbpedia.org/resource/Template:S-ttl>=9777
+Douglas_Carswell=<http://dbpedia.org/resource/Template:Incumbent_succession_box>=630
+Douglas_Carswell=<http://dbpedia.org/resource/Template:Infobox_MP>=1103
+Douglas_Carswell=<http://en.wikipedia.org/wiki/Douglas_Carswell>=1
+Douglas_Carswell=King's College London=40
+Douglas_Carswell=Harwich=14
+Douglas_Carswell=British=2733
+Douglas_Carswell=Conservative=1031
+Douglas_Carswell=Douglas=606
+Douglas_Carswell=MP=1821
+Douglas_Carswell=New constituency=57
+Douglas_Carswell=City of Westminster, London=30
+Douglas_Carswell=Member of Parliament for Harwich=14
+Douglas_Carswell=Clacton=4
+Douglas_Carswell=Douglas Carswell=21
+Douglas_Carswell=Ivan Henderson=5
+Douglas_Carswell=2005 &ndash; 2010=6
+Douglas_Carswell=Clementine=10
+Douglas_Carswell=Carswell, Douglas=1
+Douglas_Carswell=Member of Parliament for Clacton=1
+Douglas_Carswell=www.douglascarswell.com=1
+Douglas_Carswell=Carswell=10
+Frederick_M._Lawrence=<http://dbpedia.org/resource/Category:American_university_and_college_presidents>=1099
+Frederick_M._Lawrence=<http://en.wikipedia.org/wiki/Frederick_M._Lawrence>=1
+Frederick_M._Lawrence=Frederick M. Lawrence=2
+Ikuhisa_Minowa=<http://dbpedia.org/resource/Category:Living_people>=495515
+Ikuhisa_Minowa=<http://dbpedia.org/resource/Category:1976_births>=7626
+Ikuhisa_Minowa=<http://dbpedia.org/resource/Category:People_from_Gifu_Prefecture>=61
+Ikuhisa_Minowa=<http://dbpedia.org/resource/Category:Japanese_mixed_martial_artists>=146
+Ikuhisa_Minowa=<http://minowaman.com/>=1
+Ikuhisa_Minowa=<http://en.wikipedia.org/wiki/Ikuhisa_Minowa>=1
+Ikuhisa_Minowa=Ikuhisa Minowa=1
+James_McCartney=1977-09-12=38
+James_McCartney=1997-01-01 00:00:00=8679
+James_McCartney=<http://www.w3.org/2002/07/owl#Thing>=1668533
+James_McCartney=<http://dbpedia.org/resource/Category:Living_people>=495515
+James_McCartney=<http://dbpedia.org/resource/Category:English_people_of_Irish_descent>=271
+James_McCartney=<http://dbpedia.org/resource/Category:1977_births>=7797
+James_McCartney=<http://dbpedia.org/resource/Category:People_from_London>=2737
+James_McCartney=<http://dbpedia.org/resource/Bass_guitar>=3983
+James_McCartney=<http://dbpedia.org/resource/Category:English_artists>=557
+James_McCartney=<http://dbpedia.org/resource/Drum_kit>=3004
+James_McCartney=<http://dbpedia.org/resource/England>=101966
+James_McCartney=<http://dbpedia.org/resource/Category:English_guitarists>=386
+James_McCartney=<http://dbpedia.org/resource/Guitar>=8996
+James_McCartney=<http://dbpedia.org/resource/Category:English_songwriters>=879
+James_McCartney=<http://dbpedia.org/resource/Category:English_vegans>=45
+James_McCartney=<http://dbpedia.org/resource/London>=20851
+James_McCartney=<http://dbpedia.org/resource/Mandolin>=644
+James_McCartney=<http://dbpedia.org/resource/Category:British_animal_rights_advocates>=22
+James_McCartney=<http://dbpedia.org/resource/Piano>=4675
+James_McCartney=<http://dbpedia.org/resource/Rock_music>=20404
+James_McCartney=<http://dbpedia.org/resource/Category:Paul_McCartney>=52
+James_McCartney=<http://dbpedia.org/resource/Musician>=8052
+James_McCartney=<http://dbpedia.org/resource/Writer>=3292
+James_McCartney=<http://dbpedia.org/resource/Category:English_people_of_Russian_descent>=64
+James_McCartney=<http://dbpedia.org/resource/Category:English_sculptors>=206
+James_McCartney=<http://dbpedia.org/ontology/Person>=363957
+James_McCartney=<http://dbpedia.org/ontology/Artist>=83870
+James_McCartney=<http://xmlns.com/foaf/0.1/Person>=296596
+James_McCartney=<http://dbpedia.org/ontology/MusicalArtist>=28312
+James_McCartney=<http://www.jamesmccartney.com/>=1
+James_McCartney=<http://dbpedia.org/resource/Vocals>=3539
+James_McCartney=<http://en.wikipedia.org/wiki/James_McCartney>=1
+James_McCartney=solo_singer=22372
+James_McCartney=James=2049
+James_McCartney=McCartney=28
+James_McCartney=James Louis McCartney=3
+James_McCartney=James McCartney=4
+James_McCartney=Musician, Writer=1
+Lisa_Bloom=<http://dbpedia.org/resource/Category:Living_people>=495515
+Lisa_Bloom=<http://dbpedia.org/resource/Category:American_Jews>=3533
+Lisa_Bloom=<http://dbpedia.org/resource/Category:1961_births>=6103
+Lisa_Bloom=<http://dbpedia.org/resource/Category:American_female_lawyers>=282
+Lisa_Bloom=<http://dbpedia.org/resource/Category:Yale_Law_School_alumni>=470
+Lisa_Bloom=<http://dbpedia.org/resource/Category:American_feminists>=320
+Lisa_Bloom=<http://dbpedia.org/resource/Category:Jewish_feminists>=105
+Lisa_Bloom=<http://dbpedia.org/resource/Category:University_of_California,_Los_Angeles_alumni>=1018
+Lisa_Bloom=<http://dbpedia.org/resource/Category:American_television_news_anchors>=331
+Lisa_Bloom=<http://dbpedia.org/resource/Category:California_lawyers>=262
+Lisa_Bloom=<http://dbpedia.org/resource/Category:American_women_journalists>=100
+Lisa_Bloom=<http://en.wikipedia.org/wiki/Lisa_Bloom>=1
+Lisa_Bloom=Lisa Bloom=2
+Lovebug_Starski=<http://dbpedia.org/resource/Category:Living_people>=495515
+Lovebug_Starski=<http://dbpedia.org/resource/Category:American_male_singers>=3081
+Lovebug_Starski=<http://dbpedia.org/resource/Disc_jockey>=733
+Lovebug_Starski=<http://dbpedia.org/resource/Category:American_rappers>=323
+Lovebug_Starski=<http://dbpedia.org/resource/Category:1959_births>=6193
+Lovebug_Starski=<http://dbpedia.org/resource/Rapping>=843
+Lovebug_Starski=<http://dbpedia.org/resource/Musician>=8052
+Lovebug_Starski=<http://dbpedia.org/resource/Category:Place_of_birth_missing_%28living_people%29>=6445
+Lovebug_Starski=<http://dbpedia.org/resource/Soundtrack>=2757
+Lovebug_Starski=<http://dbpedia.org/resource/Record_producer>=3887
+Lovebug_Starski=<http://dbpedia.org/resource/Harlem>=326
+Lovebug_Starski=<http://dbpedia.org/resource/Atlantic_Records>=4134
+Lovebug_Starski=<http://dbpedia.org/resource/Category:Date_of_birth_missing_%28living_people%29>=969
+Lovebug_Starski=<http://dbpedia.org/resource/Record_label>=604
+Lovebug_Starski=<http://dbpedia.org/resource/Single_%28music%29>=1659
+Lovebug_Starski=<http://dbpedia.org/resource/1983_in_music>=67
+Lovebug_Starski=<http://dbpedia.org/resource/1981_in_music>=65
+Lovebug_Starski=<http://dbpedia.org/resource/1985_in_music>=85
+Lovebug_Starski=<http://dbpedia.org/resource/1984_in_music>=71
+Lovebug_Starski=<http://dbpedia.org/resource/1986_in_music>=83
+Lovebug_Starski=<http://dbpedia.org/resource/DJ_Hollywood>=4
+Lovebug_Starski=<http://dbpedia.org/resource/Epic_Records>=3962
+Lovebug_Starski=<http://dbpedia.org/resource/Billboard_Hot_100>=1115
+Lovebug_Starski=<http://dbpedia.org/resource/Album>=28230
+Lovebug_Starski=<http://dbpedia.org/resource/New_York_City>=14051
+Lovebug_Starski=<http://dbpedia.org/resource/Record_chart>=168
+Lovebug_Starski=<http://dbpedia.org/resource/Sound_recording_and_reproduction>=262
+Lovebug_Starski=<http://dbpedia.org/resource/UK_Singles_Chart>=835
+Lovebug_Starski=<http://dbpedia.org/resource/United_States>=412608
+Lovebug_Starski=<http://dbpedia.org/resource/The_Amityville_Horror_%281979_film%29>=14
+Lovebug_Starski=<http://dbpedia.org/resource/Disco_Fever>=2
+Lovebug_Starski=<http://dbpedia.org/resource/Hip_hop_music>=7555
+Lovebug_Starski=<http://dbpedia.org/resource/Parody>=622
+Lovebug_Starski=<http://dbpedia.org/resource/Nightclub>=300
+Lovebug_Starski=<http://dbpedia.org/resource/Film>=3074
+Lovebug_Starski=<http://dbpedia.org/resource/The_Bronx>=564
+Lovebug_Starski=<http://dbpedia.org/resource/Tayster>=2
+Lovebug_Starski=<http://dbpedia.org/resource/Chart-topper>=109
+Lovebug_Starski=<http://en.wikipedia.org/wiki/Lovebug_Starski>=1
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:Living_people>=12671
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:American_male_singers>=406
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:American_rappers>=19
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:1959_births>=246
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:Place_of_birth_missing_%28living_people%29>=86
+Lovebug_Starski=<http://dbpedia.org/resource/CAT:Date_of_birth_missing_%28living_people%29>=23
+Lovebug_Starski=Lovebug Starski=1
+Mario_Garnero=<http://dbpedia.org/resource/Category:Living_people>=495515
+Mario_Garnero=<http://dbpedia.org/resource/Category:Brazilian_businesspeople>=57
+Mario_Garnero=<http://www.brasilinvest.com.br/Brasilinvest>=1
+Mario_Garnero=<http://en.wikipedia.org/wiki/Mario_Garnero>=1
+Mario_Garnero=Mario Garnero=1
+Masaru_Emoto=1943-01-01 00:00:00=2368
+Masaru_Emoto=1943-07-22=26
+Masaru_Emoto=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Masaru_Emoto=<http://dbpedia.org/resource/Category:Living_people>=495515
+Masaru_Emoto=<http://dbpedia.org/resource/Category:Pseudoscience>=288
+Masaru_Emoto=<http://dbpedia.org/resource/Category:1943_births>=5776
+Masaru_Emoto=<http://dbpedia.org/resource/India>=43119
+Masaru_Emoto=<http://dbpedia.org/resource/Japan>=41604
+Masaru_Emoto=<http://dbpedia.org/resource/Category:Japanese_non-fiction_writers>=41
+Masaru_Emoto=<http://dbpedia.org/resource/Category:People_in_alternative_medicine>=192
+Masaru_Emoto=<http://dbpedia.org/resource/Writer>=3292
+Masaru_Emoto=<http://dbpedia.org/resource/Category:New_Age_authors>=101
+Masaru_Emoto=<http://dbpedia.org/resource/Yokohama>=434
+Masaru_Emoto=<http://dbpedia.org/resource/Category:Japanese_activists>=34
+Masaru_Emoto=<http://dbpedia.org/resource/Category:People_from_Yokohama>=201
+Masaru_Emoto=<http://dbpedia.org/resource/Yokohama_City_University>=3
+Masaru_Emoto=<http://dbpedia.org/ontology/Person>=363957
+Masaru_Emoto=<http://dbpedia.org/resource/Template:Infobox_person>=3373
+Masaru_Emoto=<http://dbpedia.org/resource/Masaru_Emoto__Writer>=1
+Masaru_Emoto=<http://en.wikipedia.org/wiki/Masaru_Emoto>=1
+Masaru_Emoto=Writer=618
+Masaru_Emoto=Three=185
+Masaru_Emoto=Yokohama, Japan=37
+Masaru_Emoto=Kazuko Emoto=1
+Masaru_Emoto=Open International University for Alternative Medicine=1
+Masaru_Emoto=Yokohama Municipal University,=1
+Masaru_Emoto=江本勝=6
+Masaru_Emoto=Masaru Emoto=9
+Nassim_Nicholas_Taleb=1960=1116
+Nassim_Nicholas_Taleb=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Living_people>=495515
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:American_philosophers>=654
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:American_essayists>=541
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:1960_births>=6277
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Epistemologists>=83
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:21st-century_philosophers>=361
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Essayists>=68
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Monte_Carlo_methodologists>=13
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Friedrich_Hayek>=120
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:New_York_University_faculty>=472
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Eastern_Orthodox_Christians_from_the_United_States>=104
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Karl_Popper>=199
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Lebanon>=11349
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Greek_Orthodox_Christians_from_Lebanon>=50
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Eastern_Orthodox_Christians_from_Lebanon>=19
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:American_people_of_Lebanese_descent>=180
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/United_Kingdom>=88136
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Andr%C3%A9_Malraux>=69
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Henri_Poincar%C3%A9>=136
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/University_of_Paris>=494
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Daniel_Kahneman>=42
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Sextus_Empiricus>=46
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Category:Lebanese_people>=125
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/United_States>=825216
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Amioun>=2
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Menodotus_of_Nicomedia>=3
+Nassim_Nicholas_Taleb=<http://dbpedia.org/ontology/Person>=363957
+Nassim_Nicholas_Taleb=<http://dbpedia.org/ontology/Scientist>=9730
+Nassim_Nicholas_Taleb=<http://xmlns.com/foaf/0.1/Person>=296596
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Template:Persondata>=68481
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Template:Infobox_scientist>=1258
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Nietzsche>=147
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Greek_Orthodox>=178
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Montaigne>=37
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Wharton_School>=27
+Nassim_Nicholas_Taleb=<http://dbpedia.org/resource/Benoit_Mandelbrot>=12
+Nassim_Nicholas_Taleb=<http://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb>=1
+Nassim_Nicholas_Taleb=150px=5705
+Nassim_Nicholas_Taleb=Greek Orthodox=45
+Nassim_Nicholas_Taleb=Philosopher=90
+Nassim_Nicholas_Taleb=Nassim Nicholas Taleb=12
+Nassim_Nicholas_Taleb=Amioun, Lebanon=6
+Nassim_Nicholas_Taleb=Taleb, Nessim; Taleb, Nissim=1
+Nassim_Nicholas_Taleb=Taleb, Nassim Nicholas=1
+Nassim_Nicholas_Taleb=Sextus Empiricus, Montaigne, Menodotus of Nicomedia, Henri Poincaré, Karl Popper, Benoit Mandelbrot, Friedrich Hayek, Daniel Kahneman, Nietzsche, André Malraux=1
+Nassim_Nicholas_Taleb=Applied epistemology, philosophy of statistics, bestselling books, warnings before crisis, anti-Platonism=1
+Nassim_Nicholas_Taleb=Hélyette Geman=1
+Nassim_Nicholas_Taleb=Wharton School at the University of Pennsylvania , University of Paris Dauphine=1
+Nassim_Nicholas_Taleb=Polytechnic Institute of New York University, Oxford University=1
+Nassim_Nicholas_Taleb=Scholar, aphorist, essayist, epistemologist, statistician, risk engineer and trader=1
+Nassim_Nicholas_Taleb=United States, United Kingdom, Lebanon=1
+Nassim_Nicholas_Taleb=Taleb=5
+Nassim_Nicholas_Taleb=Nassim Nicholas=1
+Rodrigo_Pimentel=<http://dbpedia.org/resource/Category:Living_people>=495515
+Rodrigo_Pimentel=<http://dbpedia.org/resource/Category:1972_births>=7029
+Rodrigo_Pimentel=<http://dbpedia.org/resource/Brazil>=21769
+Rodrigo_Pimentel=<http://dbpedia.org/resource/Category:Brazilian_screenwriters>=36
+Rodrigo_Pimentel=<http://dbpedia.org/resource/Category:Cinema_of_Brazil>=25
+Rodrigo_Pimentel=<http://xmlns.com/foaf/0.1/Person>=296596
+Rodrigo_Pimentel=<http://en.wikipedia.org/wiki/Rodrigo_Pimentel>=1
+Rodrigo_Pimentel=Rodrigo=51
+Rodrigo_Pimentel=Rodrigo Pimentel=4
+Rodrigo_Pimentel=Pimentel=7
+Roustam_Tariko=<http://dbpedia.org/resource/Category:Living_people>=495515
+Roustam_Tariko=<http://dbpedia.org/resource/Category:1961_births>=6103
+Roustam_Tariko=<http://dbpedia.org/resource/Category:Russian_businesspeople>=177
+Roustam_Tariko=<http://dbpedia.org/resource/Category:Tatar_people>=73
+Roustam_Tariko=<http://dbpedia.org/resource/Category:Businesspeople_in_the_beverage_industry>=50
+Roustam_Tariko=<http://dbpedia.org/resource/Category:Russian_billionaires>=38
+Roustam_Tariko=<http://en.wikipedia.org/wiki/Roustam_Tariko>=1
+Roustam_Tariko=Roustam Tariko=1
+Ruth_Rendell=719334=2
+Ruth_Rendell=1930-02-17=24
+Ruth_Rendell=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Living_people>=495515
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Members_of_the_Detection_Club>=62
+Ruth_Rendell=<http://dbpedia.org/resource/Category:English_women_writers>=410
+Ruth_Rendell=<http://dbpedia.org/resource/Agatha_Christie>=772
+Ruth_Rendell=<http://dbpedia.org/resource/Category:English_crime_fiction_writers>=129
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Edgar_Award_winners>=297
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society_of_Literature>=474
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Commanders_of_the_Order_of_the_British_Empire>=2156
+Ruth_Rendell=<http://dbpedia.org/resource/British_Empire>=9575
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Cartier_Diamond_Dagger_winners>=24
+Ruth_Rendell=<http://dbpedia.org/resource/Category:1930_births>=4373
+Ruth_Rendell=<http://dbpedia.org/resource/England>=101966
+Ruth_Rendell=<http://dbpedia.org/resource/Essex>=1625
+Ruth_Rendell=<http://dbpedia.org/resource/House_of_Lords>=1127
+Ruth_Rendell=<http://dbpedia.org/resource/London>=41702
+Ruth_Rendell=<http://dbpedia.org/resource/Category:People_from_Suffolk>=166
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Female_life_peers>=186
+Ruth_Rendell=<http://dbpedia.org/resource/Category:Labour_Party_life_peers>=320
+Ruth_Rendell=<http://dbpedia.org/resource/Sherlock_Holmes>=379
+Ruth_Rendell=<http://dbpedia.org/resource/Suffolk>=1199
+Ruth_Rendell=<http://dbpedia.org/resource/Sheridan_Le_Fanu>=108
+Ruth_Rendell=<http://dbpedia.org/resource/Television>=3768
+Ruth_Rendell=<http://dbpedia.org/resource/Patricia_Highsmith>=114
+Ruth_Rendell=<http://dbpedia.org/resource/Whodunit>=57
+Ruth_Rendell=<http://dbpedia.org/resource/Plot_%28narrative%29>=132
+Ruth_Rendell=<http://dbpedia.org/resource/Colin_Ward>=11
+Ruth_Rendell=<http://dbpedia.org/resource/Aldeburgh>=37
+Ruth_Rendell=<http://dbpedia.org/resource/P._D._James>=49
+Ruth_Rendell=<http://dbpedia.org/resource/Georges_Simenon>=132
+Ruth_Rendell=<http://dbpedia.org/resource/Category:People_from_Woodford,_London>=24
+Ruth_Rendell=<http://dbpedia.org/resource/Crime_writer>=28
+Ruth_Rendell=<http://dbpedia.org/resource/Order_of_the_British_Empire>=1347
+Ruth_Rendell=<http://dbpedia.org/resource/King_Solomon%27s_Carpet>=7
+Ruth_Rendell=<http://dbpedia.org/resource/Lauren_Bacall>=157
+Ruth_Rendell=<http://dbpedia.org/resource/Edgar_Award>=136
+Ruth_Rendell=<http://dbpedia.org/resource/George_Baker_%28actor%29>=24
+Ruth_Rendell=<http://dbpedia.org/resource/Loughton>=50
+Ruth_Rendell=<http://dbpedia.org/resource/Police_procedural>=220
+Ruth_Rendell=<http://dbpedia.org/resource/Life_peer>=225
+Ruth_Rendell=<http://dbpedia.org/resource/Mystery_Writers_of_America>=66
+Ruth_Rendell=<http://dbpedia.org/resource/Minette_Walters>=46
+Ruth_Rendell=<http://dbpedia.org/resource/Rita_Tushingham>=27
+Ruth_Rendell=<http://dbpedia.org/resource/South_Woodford>=36
+Ruth_Rendell=<http://dbpedia.org/resource/Martin_Edwards>=12
+Ruth_Rendell=<http://dbpedia.org/resource/The_Sunday_Times>=134
+Ruth_Rendell=<http://dbpedia.org/resource/Sandrine_Bonnaire>=20
+Ruth_Rendell=<http://dbpedia.org/resource/Psychological_thriller>=150
+Ruth_Rendell=<http://dbpedia.org/resource/Crime_Writers%27_Association>=19
+Ruth_Rendell=<http://dbpedia.org/resource/Gold_Dagger>=14
+Ruth_Rendell=<http://dbpedia.org/resource/Live_Flesh>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Dagger_of_Daggers>=2
+Ruth_Rendell=<http://dbpedia.org/resource/A_Fatal_Inversion>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Inspector_Wexford>=28
+Ruth_Rendell=<http://dbpedia.org/resource/End_in_Tears>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Adam_and_Eve_and_Pinch_Me>=4
+Ruth_Rendell=<http://dbpedia.org/resource/A_Judgement_in_Stone>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Make_Death_Love_Me>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Tree_of_Hands>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Kissing_the_Gunner%27s_Daughter>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Pedro_Almod%C3%B3var>=80
+Ruth_Rendell=<http://dbpedia.org/resource/A_Demon_in_My_View>=3
+Ruth_Rendell=<http://dbpedia.org/resource/The_House_of_Stairs_%28Barbara_Vine_novel%29>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Thirteen_Steps_Down>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Rottweiler>=5
+Ruth_Rendell=<http://dbpedia.org/resource/The_Babes_in_the_Wood>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Thief_%28novella%29>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Water%27s_Lovely>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Piranha_to_Scurfy>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Harm_Done>=4
+Ruth_Rendell=<http://dbpedia.org/resource/A_Sight_for_Sore_Eyes>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Road_Rage_%28novel%29>=5
+Ruth_Rendell=<http://dbpedia.org/resource/The_Keys_to_the_Street>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Simisola>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Crocodile_Bird>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Copper_Peacock>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Going_Wrong>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Bridesmaid>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Veiled_One>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Talking_to_Strange_Men>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Heartstones>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_New_Girlfriend>=4
+Ruth_Rendell=<http://dbpedia.org/resource/An_Unkindness_of_Ravens>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Killing_Doll>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Speaker_of_Mandarin>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Fever_Tree>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Master_of_the_Moor>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Put_on_By_Cunning>=3
+Ruth_Rendell=<http://dbpedia.org/resource/The_Lake_of_Darkness>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Means_of_Evil>=4
+Ruth_Rendell=<http://dbpedia.org/resource/A_Sleeping_Life>=6
+Ruth_Rendell=<http://dbpedia.org/resource/The_Fallen_Curtain>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Shake_Hands_Forever>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Face_of_Trespass>=4
+Ruth_Rendell=<http://dbpedia.org/resource/No_More_Dying_Then>=5
+Ruth_Rendell=<http://dbpedia.org/resource/One_Across,_Two_Down>=3
+Ruth_Rendell=<http://dbpedia.org/resource/A_Guilty_Thing_Surprised>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Best_Man_to_Die>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Secret_House_of_Death>=3
+Ruth_Rendell=<http://dbpedia.org/resource/A_New_Lease_of_Death>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Wolf_to_the_Slaughter>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Vanity_Dies_Hard>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Minotaur_%28novel%29>=3
+Ruth_Rendell=<http://dbpedia.org/resource/The_Blood_Doctor>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Grasshopper_%28novel%29>=4
+Ruth_Rendell=<http://dbpedia.org/resource/The_Chimney-sweeper%27s_Boy>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Sarah_Dunant>=20
+Ruth_Rendell=<http://dbpedia.org/resource/Frances_Fyfield>=8
+Ruth_Rendell=<http://dbpedia.org/resource/La_C%C3%A9r%C3%A9monie>=8
+Ruth_Rendell=<http://dbpedia.org/resource/Diary_of_the_Dead_%281976_film%29>=3
+Ruth_Rendell=<http://dbpedia.org/resource/The_Brimstone_Wedding>=4
+Ruth_Rendell=<http://dbpedia.org/resource/No_Night_Is_Too_Long_%28novel%29>=2
+Ruth_Rendell=<http://dbpedia.org/resource/Asta%27s_Book>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Gallowglass_%28novel%29>=5
+Ruth_Rendell=<http://dbpedia.org/resource/A_Dark-Adapted_Eye>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Not_in_the_Flesh>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Martin_Beck_Award>=2
+Ruth_Rendell=<http://dbpedia.org/resource/Theakston%27s_Old_Peculier_Crime_Novel_of_the_Year_Award>=2
+Ruth_Rendell=<http://dbpedia.org/resource/Claude_Miller>=28
+Ruth_Rendell=<http://dbpedia.org/resource/Christopher_Ravenscroft>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Domestic_violence>=167
+Ruth_Rendell=<http://dbpedia.org/resource/Labour_Party_%28UK%29>=2505
+Ruth_Rendell=<http://dbpedia.org/resource/Portobello_%28novel%29>=8
+Ruth_Rendell=<http://dbpedia.org/resource/The_Birthday_Present_%28novel%29>=2
+Ruth_Rendell=<http://dbpedia.org/resource/Film>=3074
+Ruth_Rendell=<http://dbpedia.org/resource/Newspaper>=1076
+Ruth_Rendell=<http://dbpedia.org/resource/Blood_Lines_%28Ruth_Rendell_short_stories_collection%29>=5
+Ruth_Rendell=<http://dbpedia.org/resource/Giles_Foster>=10
+Ruth_Rendell=<http://dbpedia.org/resource/The_Monster_in_the_Box>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Tigerlily%27s_Orchids>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Murder_Being_Done_Once>=2
+Ruth_Rendell=<http://dbpedia.org/ontology/Person>=363957
+Ruth_Rendell=<http://dbpedia.org/ontology/Artist>=83870
+Ruth_Rendell=<http://dbpedia.org/ontology/Writer>=10103
+Ruth_Rendell=<http://dbpedia.org/resource/Helen_Simpson>=6
+Ruth_Rendell=<http://dbpedia.org/resource/Template:Imdb_name>=6317
+Ruth_Rendell=<http://dbpedia.org/resource/Template:Infobox_Writer>=2544
+Ruth_Rendell=<http://dbpedia.org/resource/Novelist>=4076
+Ruth_Rendell=<http://dbpedia.org/resource/Dorothy_Leigh_Sayers>=10
+Ruth_Rendell=<http://dbpedia.org/resource/Murder_mystery>=64
+Ruth_Rendell=<http://dbpedia.org/resource/Chabrol>=2
+Ruth_Rendell=<http://dbpedia.org/resource/Montague_Rhodes_James>=20
+Ruth_Rendell=<http://dbpedia.org/resource/Carne_tr%C3%A9mula>=3
+Ruth_Rendell=<http://dbpedia.org/resource/A_Judgement_In_Stone>=2
+Ruth_Rendell=<http://dbpedia.org/resource/From_Doon_With_Death>=4
+Ruth_Rendell=<http://dbpedia.org/resource/Some_Lie_And_Some_Die>=4
+Ruth_Rendell=<http://dbpedia.org/resource/To_Fear_A_Painted_Devil>=3
+Ruth_Rendell=<http://dbpedia.org/resource/Gumshoe_Award>=3
+Ruth_Rendell=<http://dbpedia.org/resource/The_Minotaur>=3
+Ruth_Rendell=<http://en.wikipedia.org/wiki/Ruth_Rendell>=1
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Living_people>=12671
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Members_of_the_Detection_Club>=25
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:English_women_writers>=79
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:English_crime_fiction_writers>=22
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Edgar_Award_winners>=74
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Fellows_of_the_Royal_Society_of_Literature>=99
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Commanders_of_the_Order_of_the_British_Empire>=259
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Cartier_Diamond_Dagger_winners>=12
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:1930_births>=268
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:People_from_Suffolk>=26
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Female_life_peers>=55
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:Labour_Party_life_peers>=77
+Ruth_Rendell=<http://dbpedia.org/resource/La_Demoiselle_d%27honneur>=2
+Ruth_Rendell=<http://dbpedia.org/resource/CAT:People_from_Woodford,_London>=6
+Ruth_Rendell=<http://dbpedia.org/resource/Betty_Fisher_et_autres_histoires>=1
+Ruth_Rendell=<http://dbpedia.org/resource/In_the_Time_of_His_Prosperity>=1
+Ruth_Rendell=Novelist=658
+Ruth_Rendell=Ruth Rendell=9
+Ruth_Rendell=Minette Walters, Helen Simpson, Sarah Dunant, Frances Fyfield, Martin Edwards=1
+Ruth_Rendell=Agatha Christie, Patricia Highsmith, Dorothy Leigh Sayers, Montague Rhodes James, Sheridan Le Fanu, Georges Simenon=1
+Ruth_Rendell=psychological thriller, murder mystery=1
+Ruth_Rendell=South Woodford, London=1
+Ruth_Rendell=Rendell in August 2007=1
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Living_people>=495515
+Satoshi_Ishii=<http://dbpedia.org/resource/Japan>=41604
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:1986_births>=8266
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Place_of_birth_missing_%28living_people%29>=6445
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Heavyweight_mixed_martial_artists>=242
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Olympic_gold_medalists_for_Japan>=155
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Judoka_at_the_2008_Summer_Olympics>=224
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Olympic_judoka_of_Japan>=47
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Japanese_judoka>=151
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Japanese_mixed_martial_artists>=146
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:Japanese_practitioners_of_Brazilian_Jiu-Jitsu>=8
+Satoshi_Ishii=<http://dbpedia.org/resource/Category:People_from_Ibaraki,_Osaka>=9
+Satoshi_Ishii=<http://en.wikipedia.org/wiki/Satoshi_Ishii>=1
+Satoshi_Ishii=Satoshi Ishii=1
+Vladimir_Potanin=1961-01-01 00:00:00=1955
+Vladimir_Potanin=1961-01-03=216
+Vladimir_Potanin=1984-04-30=33
+Vladimir_Potanin=1989-04-11=21
+Vladimir_Potanin=<http://www.w3.org/2002/07/owl#Thing>=1668533
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Living_people>=495515
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Members_of_the_Public_Chamber>=18
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:1961_births>=6103
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:People_from_Moscow>=742
+Vladimir_Potanin=<http://dbpedia.org/resource/Moscow>=3561
+Vladimir_Potanin=<http://dbpedia.org/resource/Russia>=21465
+Vladimir_Potanin=<http://dbpedia.org/resource/Russian_Federation>=688
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Russian_businesspeople>=177
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Moscow_State_Institute_of_International_Relations_alumni>=70
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Russian_billionaires>=38
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Russian_mass_media_owners>=9
+Vladimir_Potanin=<http://dbpedia.org/resource/Category:Russian_philanthropists>=24
+Vladimir_Potanin=<http://dbpedia.org/resource/Moscow_State_Institute_of_International_Relations>=22
+Vladimir_Potanin=<http://dbpedia.org/resource/Interros>=4
+Vladimir_Potanin=<http://dbpedia.org/ontology/Person>=363957
+Vladimir_Potanin=<http://xmlns.com/foaf/0.1/Person>=296596
+Vladimir_Potanin=<http://www.interros.ru/eng/>=2
+Vladimir_Potanin=<http://dbpedia.org/resource/Template:Persondata>=68481
+Vladimir_Potanin=<http://dbpedia.org/resource/Template:Infobox_Person>=4696
+Vladimir_Potanin=<http://dbpedia.org/resource/Vladimir_Potanin__Chairman_of_Interros>=1
+Vladimir_Potanin=<http://en.wikipedia.org/wiki/Vladimir_Potanin>=1
+Vladimir_Potanin=Russian Federation=27
+Vladimir_Potanin=Moscow, Russia=247
+Vladimir_Potanin=N/A=5936
+Vladimir_Potanin=Business entrepreneur=26
+Vladimir_Potanin=Moscow, Russian Federation=11
+Vladimir_Potanin=Potanin, Vladimir=1
+Vladimir_Potanin=Potanin, Vladimir Olegovich=1
+Vladimir_Potanin=Interros Web Site=1
+Vladimir_Potanin=Moscow State Institute of International Relations  with the Ministry of Foreign Affairs.=1
+Vladimir_Potanin=Vassily=5
+Vladimir_Potanin=Natalia Potanina=1
+Vladimir_Potanin=US$19,3 billion=1
+Vladimir_Potanin=Chairman of Interros=2
+Vladimir_Potanin=Vladimir Potanin in 2003=1
+Vladimir_Potanin=Vladimir Potanin=12
+Vladimir_Potanin=Potanin=2
+Vladimir_Potanin=19.0=3
+Vladimir_Potanin=Vladimir Olegovich=1
+Vladimir_Potanin=Vladimir Olegovich Potanin=1
+William_Cohen=2=106888
+William_Cohen=2001=5677
+William_Cohen=1940-08-28=60
+William_Cohen=1973-01-03=350
+William_Cohen=1979-01-03=628
+William_Cohen=1981-01-05=146
+William_Cohen=1983-01-03=418
+William_Cohen=1995-01-04=128
+William_Cohen=1997-01-03=548
+William_Cohen=1997-01-24=50
+William_Cohen=2001-01-20=342
+William_Cohen=<http://www.w3.org/2002/07/owl#Thing>=1668533
+William_Cohen=<http://dbpedia.org/resource/Category:Living_people>=495515
+William_Cohen=<http://dbpedia.org/resource/Category:American_businesspeople>=3137
+William_Cohen=<http://dbpedia.org/resource/Category:1940_births>=5093
+William_Cohen=<http://dbpedia.org/resource/Al-Qaeda>=356
+William_Cohen=<http://dbpedia.org/resource/Category:American_people_of_Russian_descent>=459
+William_Cohen=<http://dbpedia.org/resource/Anti-Ballistic_Missile_Treaty>=46
+William_Cohen=<http://dbpedia.org/resource/Bill_Clinton>=3210
+William_Cohen=<http://dbpedia.org/resource/Category:American_politicians_of_Irish_descent>=846
+William_Cohen=<http://dbpedia.org/resource/Bosnia_and_Herzegovina>=7940
+William_Cohen=<http://dbpedia.org/resource/Basketball>=1861
+William_Cohen=<http://dbpedia.org/resource/Category:American_people_of_Irish_descent>=2345
+William_Cohen=<http://dbpedia.org/resource/Czech_Republic>=16781
+William_Cohen=<http://dbpedia.org/resource/Category:American_Unitarian_Universalists>=63
+William_Cohen=<http://dbpedia.org/resource/Category:People_from_McLean,_Virginia>=37
+William_Cohen=<http://dbpedia.org/resource/Category:Harvard_Fellows>=173
+William_Cohen=<http://dbpedia.org/resource/Dar_es_Salaam>=123
+William_Cohen=<http://dbpedia.org/resource/Donald_Rumsfeld>=157
+William_Cohen=<http://dbpedia.org/resource/Category:United_States_Secretaries_of_Defense>=23
+William_Cohen=<http://dbpedia.org/resource/Don%27t_ask,_don%27t_tell>=44
+William_Cohen=<http://dbpedia.org/resource/Category:Bowdoin_College_alumni>=250
+William_Cohen=<http://dbpedia.org/resource/Finland>=5786
+William_Cohen=<http://dbpedia.org/resource/Fighter_aircraft>=780
+William_Cohen=<http://dbpedia.org/resource/Genocide>=369
+William_Cohen=<http://dbpedia.org/resource/Hungary>=11431
+William_Cohen=<http://dbpedia.org/resource/Helsinki>=1226
+William_Cohen=<http://dbpedia.org/resource/Category:United_States_Senators_from_Maine>=38
+William_Cohen=<http://dbpedia.org/resource/Category:Members_of_the_United_States_House_of_Representatives_from_Maine>=159
+William_Cohen=<http://dbpedia.org/resource/Category:Maine_Republicans>=55
+William_Cohen=<http://dbpedia.org/resource/Immigration_to_the_United_States>=94
+William_Cohen=<http://dbpedia.org/resource/Category:Clinton_Administration_cabinet_members>=25
+William_Cohen=<http://dbpedia.org/resource/Category:Maine_lawyers>=46
+William_Cohen=<http://dbpedia.org/resource/Category:Republican_Party_%28United_States%29_politicians>=332
+William_Cohen=<http://dbpedia.org/resource/Kosovo>=730
+William_Cohen=<http://dbpedia.org/resource/Libya>=2068
+William_Cohen=<http://dbpedia.org/resource/Lesbian>=382
+William_Cohen=<http://dbpedia.org/resource/Maine>=4140
+William_Cohen=<http://dbpedia.org/resource/NATO>=1249
+William_Cohen=<http://dbpedia.org/resource/North_Korea>=2025
+William_Cohen=<http://dbpedia.org/resource/Nairobi>=371
+William_Cohen=<http://dbpedia.org/resource/North_Africa>=808
+William_Cohen=<http://dbpedia.org/resource/Nuclear_weapon>=531
+William_Cohen=<http://dbpedia.org/resource/Poland>=72958
+William_Cohen=<http://dbpedia.org/resource/President_of_the_United_States>=3032
+William_Cohen=<http://dbpedia.org/resource/Persian_Gulf>=547
+William_Cohen=<http://dbpedia.org/resource/Richard_Nixon>=1052
+William_Cohen=<http://dbpedia.org/resource/Racism>=664
+William_Cohen=<http://dbpedia.org/resource/Rwanda>=1152
+William_Cohen=<http://dbpedia.org/resource/Tanzania>=3320
+William_Cohen=<http://dbpedia.org/resource/The_Washington_Times>=48
+William_Cohen=<http://dbpedia.org/resource/Time_%28magazine%29>=1051
+William_Cohen=<http://dbpedia.org/resource/United_States_Congress>=1702
+William_Cohen=<http://dbpedia.org/resource/Politics_of_the_United_States>=123
+William_Cohen=<http://dbpedia.org/resource/Unitarian_Universalism>=206
+William_Cohen=<http://dbpedia.org/resource/Republican_Party_%28United_States%29>=17276
+William_Cohen=<http://dbpedia.org/resource/United_States_Army>=5242
+William_Cohen=<http://dbpedia.org/resource/United_States_Air_Force>=3619
+William_Cohen=<http://dbpedia.org/resource/White_House>=873
+William_Cohen=<http://dbpedia.org/resource/Eunice_Kennedy_Shriver>=37
+William_Cohen=<http://dbpedia.org/resource/John_McCain>=746
+William_Cohen=<http://dbpedia.org/resource/United_States_Secretary_of_Defense>=223
+William_Cohen=<http://dbpedia.org/resource/National_Security_Advisor_%28United_States%29>=90
+William_Cohen=<http://dbpedia.org/resource/Watergate_scandal>=250
+William_Cohen=<http://dbpedia.org/resource/Boston_University>=734
+William_Cohen=<http://dbpedia.org/resource/CNN>=743
+William_Cohen=<http://dbpedia.org/resource/Smithsonian_Institution>=447
+William_Cohen=<http://dbpedia.org/resource/Category:Jewish_United_States_Senators>=32
+William_Cohen=<http://dbpedia.org/resource/Penobscot_County,_Maine>=112
+William_Cohen=<http://dbpedia.org/resource/Bangor,_Maine>=392
+William_Cohen=<http://dbpedia.org/resource/Madeleine_Albright>=90
+William_Cohen=<http://dbpedia.org/resource/Ashkenazi_Jews>=144
+William_Cohen=<http://dbpedia.org/resource/William_Perry>=17
+William_Cohen=<http://dbpedia.org/resource/Aerospace>=431
+William_Cohen=<http://dbpedia.org/resource/Bachelor_of_Arts>=1386
+William_Cohen=<http://dbpedia.org/resource/Academic_degree>=233
+William_Cohen=<http://dbpedia.org/resource/Category:Jewish_members_of_the_United_States_House_of_Representatives>=96
+William_Cohen=<http://dbpedia.org/resource/The_Wall_Street_Journal>=285
+William_Cohen=<http://dbpedia.org/resource/Kenya>=3190
+William_Cohen=<http://dbpedia.org/resource/Joint_Chiefs_of_Staff>=139
+William_Cohen=<http://dbpedia.org/resource/Bowdoin_College>=381
+William_Cohen=<http://dbpedia.org/resource/Gary_Hart>=50
+William_Cohen=<http://dbpedia.org/resource/Vertical_integration>=55
+William_Cohen=<http://dbpedia.org/resource/Partnership>=126
+William_Cohen=<http://dbpedia.org/resource/The_Daily_Show>=153
+William_Cohen=<http://dbpedia.org/resource/Sexual_harassment>=96
+William_Cohen=<http://dbpedia.org/resource/President_of_Russia>=94
+William_Cohen=<http://dbpedia.org/resource/National_security>=161
+William_Cohen=<http://dbpedia.org/resource/Black_Entertainment_Television>=123
+William_Cohen=<http://dbpedia.org/resource/Wesley_Clark>=57
+William_Cohen=<http://dbpedia.org/resource/Category:Boston_University_School_of_Law_alumni>=82
+William_Cohen=<http://dbpedia.org/resource/Forbes>=434
+William_Cohen=<http://dbpedia.org/resource/Bachelor_of_Laws>=152
+William_Cohen=<http://dbpedia.org/resource/David_Pryor>=78
+William_Cohen=<http://dbpedia.org/resource/Army_National_Guard>=160
+William_Cohen=<http://dbpedia.org/resource/Edmund_Muskie>=57
+William_Cohen=<http://dbpedia.org/resource/Category:American_International_Group>=36
+William_Cohen=<http://dbpedia.org/resource/Cold_War>=1939
+William_Cohen=<http://dbpedia.org/resource/Supreme_Headquarters_Allied_Powers_Europe>=28
+William_Cohen=<http://dbpedia.org/resource/Chairman_of_the_Joint_Chiefs_of_Staff>=101
+William_Cohen=<http://dbpedia.org/resource/University_of_Maine>=130
+William_Cohen=<http://dbpedia.org/resource/Susan_Collins>=33
+William_Cohen=<http://dbpedia.org/resource/Category:University_of_Maine_faculty>=25
+William_Cohen=<http://dbpedia.org/resource/Category:Mayors_of_Bangor,_Maine>=1
+William_Cohen=<http://dbpedia.org/resource/Category:Business_educators>=11
+William_Cohen=<http://dbpedia.org/resource/Olympia_Snowe>=92
+William_Cohen=<http://dbpedia.org/resource/Chuck_Grassley>=82
+William_Cohen=<http://dbpedia.org/resource/Fellow>=133
+William_Cohen=<http://dbpedia.org/resource/United_States_Junior_Chamber>=11
+William_Cohen=<http://dbpedia.org/resource/Hugh_Shelton>=15
+William_Cohen=<http://dbpedia.org/resource/START_I>=22
+William_Cohen=<http://dbpedia.org/resource/John_Shalikashvili>=18
+William_Cohen=<http://dbpedia.org/resource/George_J._Mitchell>=62
+William_Cohen=<http://dbpedia.org/resource/Latin_honors>=55
+William_Cohen=<http://dbpedia.org/resource/Roger_Staubach>=40
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate_Committee_on_Armed_Services>=47
+William_Cohen=<http://dbpedia.org/resource/William_Hathaway>=9
+William_Cohen=<http://dbpedia.org/resource/Sandy_Berger>=28
+William_Cohen=<http://dbpedia.org/resource/Scenario_planning>=11
+William_Cohen=<http://dbpedia.org/resource/New_York_City>=14051
+William_Cohen=<http://dbpedia.org/resource/United_States_House_Committee_on_the_Judiciary>=55
+William_Cohen=<http://dbpedia.org/resource/Irish_people>=2291
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate_Select_Committee_on_Intelligence>=43
+William_Cohen=<http://dbpedia.org/resource/Anne_Frank>=94
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate_Committee_on_Homeland_Security_and_Governmental_Affairs>=25
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate_Committee_on_Indian_Affairs>=19
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate_Special_Committee_on_Aging>=27
+William_Cohen=<http://dbpedia.org/resource/Law_firm>=64
+William_Cohen=<http://dbpedia.org/resource/John_Melcher>=40
+William_Cohen=<http://dbpedia.org/resource/Base_Realignment_and_Closure>=75
+William_Cohen=<http://dbpedia.org/resource/Missile_defense>=27
+William_Cohen=<http://dbpedia.org/resource/Mark_Andrews>=28
+William_Cohen=<http://dbpedia.org/resource/Boston_University_School_of_Law>=39
+William_Cohen=<http://dbpedia.org/resource/CNN.com>=12
+William_Cohen=<http://dbpedia.org/resource/Brian_Kilmeade>=6
+William_Cohen=<http://dbpedia.org/resource/Woodrow_Wilson_International_Center_for_Scholars>=26
+William_Cohen=<http://dbpedia.org/resource/Impeachment_in_the_United_States>=26
+William_Cohen=<http://dbpedia.org/resource/Janet_Langhart>=8
+William_Cohen=<http://dbpedia.org/resource/Woodrow_Wilson_Awards>=21
+William_Cohen=<http://dbpedia.org/resource/Advice_and_consent>=40
+William_Cohen=<http://dbpedia.org/resource/Hebrew_school>=7
+William_Cohen=<http://dbpedia.org/resource/START_III>=5
+William_Cohen=<http://dbpedia.org/resource/Law_school>=126
+William_Cohen=<http://dbpedia.org/resource/United_States>=412608
+William_Cohen=<http://dbpedia.org/resource/Quadrennial_Defense_Review>=4
+William_Cohen=<http://dbpedia.org/resource/US-Taiwan_Business_Council>=5
+William_Cohen=<http://dbpedia.org/resource/Armenian_National_Committee_of_America>=8
+William_Cohen=<http://dbpedia.org/resource/Democratic_Party_%28United_States%29>=9769
+William_Cohen=<http://dbpedia.org/resource/Maine%27s_2nd_congressional_district>=32
+William_Cohen=<http://dbpedia.org/resource/Gay>=462
+William_Cohen=<http://dbpedia.org/resource/Rudy_de_Leon>=14
+William_Cohen=<http://dbpedia.org/resource/Theodore_Roosevelt_Award_%28NCAA%29>=11
+William_Cohen=<http://dbpedia.org/resource/John_Hamre>=16
+William_Cohen=<http://dbpedia.org/resource/Iraq>=6263
+William_Cohen=<http://dbpedia.org/resource/Politico_%28newspaper%29>=20
+William_Cohen=<http://dbpedia.org/resource/1998_United_States_embassy_bombings>=35
+William_Cohen=<http://dbpedia.org/resource/United_States_Marine_Corps>=2117
+William_Cohen=<http://dbpedia.org/resource/U.S._state>=8409
+William_Cohen=<http://dbpedia.org/resource/United_States_House_of_Representatives>=2222
+William_Cohen=<http://dbpedia.org/resource/East_Asia>=573
+William_Cohen=<http://dbpedia.org/resource/The_Cohen_Group>=3
+William_Cohen=<http://dbpedia.org/resource/United_States_Navy>=4132
+William_Cohen=<http://dbpedia.org/resource/Harut_Sassounian>=4
+William_Cohen=<http://dbpedia.org/resource/United_States_Holocaust_Memorial_Museum_shooting>=2
+William_Cohen=<http://dbpedia.org/resource/Boris_Yeltsin>=183
+William_Cohen=<http://dbpedia.org/resource/Boston>=2559
+William_Cohen=<http://dbpedia.org/resource/United_States_Senate>=4734
+William_Cohen=<http://dbpedia.org/resource/Protestantism>=1073
+William_Cohen=<http://dbpedia.org/resource/Secretary_of_State>=136
+William_Cohen=<http://dbpedia.org/ontology/Politician>=20705
+William_Cohen=<http://dbpedia.org/ontology/Person>=363957
+William_Cohen=<http://xmlns.com/foaf/0.1/Person>=296596
+William_Cohen=<http://dbpedia.org/ontology/Congressman>=1849
+William_Cohen=<http://dbpedia.org/resource/F-22_Raptor>=71
+William_Cohen=<http://dbpedia.org/resource/Arab-Israeli_conflict>=102
+William_Cohen=<http://dbpedia.org/resource/Emmett_Till>=21
+William_Cohen=<http://dbpedia.org/resource/F/A-18E/F_Super_Hornet>=57
+William_Cohen=<http://dbpedia.org/resource/The_Hill>=3
+William_Cohen=<http://dbpedia.org/resource/Template:Persondata>=68481
+William_Cohen=<http://dbpedia.org/resource/Template:USRSB>=136
+William_Cohen=<http://dbpedia.org/resource/Template:Succession_box>=28292
+William_Cohen=<http://dbpedia.org/resource/Template:U.S._Senator_box>=1006
+William_Cohen=<http://dbpedia.org/resource/Template:Infobox_Congressman>=699
+William_Cohen=<http://dbpedia.org/resource/Template:U.S._Secretary_box>=408
+William_Cohen=<http://dbpedia.org/resource/Washington_Post>=523
+William_Cohen=<http://dbpedia.org/resource/Operation_Allied_Force>=75
+William_Cohen=<http://dbpedia.org/resource/Operation_Desert_Fox>=48
+William_Cohen=<http://dbpedia.org/resource/Washington_D.C.>=602
+William_Cohen=<http://dbpedia.org/resource/Russian_people>=162
+William_Cohen=<http://dbpedia.org/resource/Forbes_Magazine>=108
+William_Cohen=<http://dbpedia.org/resource/The_Financial_Times>=19
+William_Cohen=<http://dbpedia.org/resource/Latin_language>=730
+William_Cohen=<http://dbpedia.org/resource/Asian_Wall_Street_Journal>=5
+William_Cohen=<http://dbpedia.org/resource/Deputy_Secretary_of_Defense>=13
+William_Cohen=<http://dbpedia.org/resource/Business_administration>=55
+William_Cohen=<http://dbpedia.org/resource/Iran-contra_affair>=3
+William_Cohen=<http://dbpedia.org/resource/Information_Technology_Management_Reform_Act>=2
+William_Cohen=<http://dbpedia.org/resource/U.S._Holocaust_Museum>=4
+William_Cohen=<http://dbpedia.org/resource/Fox_&_Friends_First>=2
+William_Cohen=<http://dbpedia.org/resource/Kennedy_School_of_Government>=43
+William_Cohen=<http://dbpedia.org/resource/United_States_House_election,_1972>=3
+William_Cohen=<http://dbpedia.org/resource/Weapons_of_mass_destruction>=188
+William_Cohen=<http://dbpedia.org/resource/Husson_College>=6
+William_Cohen=<http://dbpedia.org/resource/List_of_United_States_political_appointments_that_crossed_party_lines>=14
+William_Cohen=<http://dbpedia.org/resource/Goldwater-Nichols_Act>=14
+William_Cohen=<http://en.wikipedia.org/wiki/William_Cohen>=1
+William_Cohen=<http://dbpedia.org/resource/CAT:Living_people>=12671
+William_Cohen=<http://dbpedia.org/resource/CAT:American_businesspeople>=171
+William_Cohen=<http://dbpedia.org/resource/CAT:1940_births>=308
+William_Cohen=<http://dbpedia.org/resource/CAT:American_people_of_Russian_descent>=65
+William_Cohen=<http://dbpedia.org/resource/CAT:American_politicians_of_Irish_descent>=102
+William_Cohen=<http://dbpedia.org/resource/CAT:American_people_of_Irish_descent>=394
+William_Cohen=<http://dbpedia.org/resource/CAT:American_Unitarian_Universalists>=20
+William_Cohen=<http://dbpedia.org/resource/CAT:People_from_McLean,_Virginia>=6
+William_Cohen=<http://dbpedia.org/resource/CAT:Harvard_Fellows>=11
+William_Cohen=<http://dbpedia.org/resource/CAT:United_States_Secretaries_of_Defense>=14
+William_Cohen=<http://dbpedia.org/resource/CAT:Bowdoin_College_alumni>=21
+William_Cohen=<http://dbpedia.org/resource/CAT:United_States_Senators_from_Maine>=9
+William_Cohen=<http://dbpedia.org/resource/CAT:Members_of_the_United_States_House_of_Representatives_from_Maine>=10
+William_Cohen=<http://dbpedia.org/resource/CAT:Maine_Republicans>=5
+William_Cohen=<http://dbpedia.org/resource/CAT:Clinton_Administration_cabinet_members>=13
+William_Cohen=<http://dbpedia.org/resource/CAT:Republican_Party_%28United_States%29_politicians>=37
+William_Cohen=<http://dbpedia.org/resource/CAT:Maine_lawyers>=5
+William_Cohen=<http://dbpedia.org/resource/CAT:Jewish_United_States_Senators>=18
+William_Cohen=<http://dbpedia.org/resource/CAT:Jewish_members_of_the_United_States_House_of_Representatives>=24
+William_Cohen=<http://dbpedia.org/resource/CAT:Boston_University_School_of_Law_alumni>=7
+William_Cohen=<http://dbpedia.org/resource/Image:Sellapan_nathan.jpg>=3
+William_Cohen=<http://dbpedia.org/resource/CAT:American_International_Group>=3
+William_Cohen=<http://dbpedia.org/resource/CAT:University_of_Maine_faculty>=1
+William_Cohen=<http://dbpedia.org/resource/CAT:Mayors_of_Bangor,_Maine>=1
+William_Cohen=<http://dbpedia.org/resource/CAT:Business_educators>=1
+William_Cohen=<http://dbpedia.org/resource/Focus_580>=1
+William_Cohen=<http://dbpedia.org/resource/Image:William_Cohen_and_Janet_Langhart_2006.jpg>=1
+William_Cohen=<http://dbpedia.org/resource/Image:Yoshiro_Mori_meets_William_Cohen_2.jpg>=1
+William_Cohen=<http://dbpedia.org/resource/Image:Sec_of_Defense_William_Cohen_in_Korea,_January_1998.JPEG>=1
+William_Cohen=<http://dbpedia.org/resource/Image:Clinton_and_Cohen_meeting_at_the_Pentagon.jpg>=1
+William_Cohen=<http://dbpedia.org/resource/Image:Senator_William_Cohen_%28R-ME%29.jpg>=2
+William_Cohen=Arkansas=765
+William_Cohen=North Dakota=485
+William_Cohen=Montana=454
+William_Cohen=Maine=1086
+William_Cohen=Iowa=305
+William_Cohen=Bill Clinton=138
+William_Cohen=Boston University=30
+William_Cohen=Bangor, Maine=40
+William_Cohen=Republican=1675
+William_Cohen=250px=26417
+William_Cohen=United States Senator=824
+William_Cohen=Secretary of Defense=23
+William_Cohen=William Cohen=28
+William_Cohen=Donald Rumsfeld=32
+William_Cohen=from Maine=34
+William_Cohen=Susan Collins=26
+William_Cohen=Olympia Snowe=13
+William_Cohen=Cohen=190
+William_Cohen=Theodore Roosevelt Award (NCAA)=6
+William_Cohen=Eunice Kennedy Shriver=7
+William_Cohen=Chairman of the Senate Indian Affairs Committee=8
+William_Cohen=Chairman of the Senate Committee on Indian Affairs=14
+William_Cohen=William=2118
+William_Cohen=John Melcher=10
+William_Cohen=William Perry=9
+William_Cohen=David Pryor=11
+William_Cohen=Chuck Grassley=8
+William_Cohen=Rudy de Leon=3
+William_Cohen=1997 – 2001=8
+William_Cohen=William Hathaway=6
+William_Cohen=1979 – 1997=4
+William_Cohen=Chairman of the Senate Aging Committee=9
+William_Cohen=Chairman of the Senate Special Committee on Aging=28
+William_Cohen=Cohen, William=1
+William_Cohen=Roger Staubach=5
+William_Cohen=William J. Perry=2
+William_Cohen=1995 – 1997=6
+William_Cohen=1981 – 1983=3
+William_Cohen=Edmund Muskie, George J. Mitchell, Olympia Snowe=1
+William_Cohen=Bill Hathaway=2
+William_Cohen=1973 – 1979=1
+William_Cohen=Unitarian Univeralist=1
+William_Cohen=Janet Langhart=2
+William_Cohen=Mark Andrews=16
+William_Cohen=John Hamre=4
+William_Cohen=20th United States Secretary of Defense=4
+William_Cohen=William Sebastian Cohen=6
+William_D._Cohan=<http://dbpedia.org/resource/Category:Living_people>=495515
+William_D._Cohan=<http://dbpedia.org/resource/Category:Year_of_birth_missing_%28living_people%29>=47251
+William_D._Cohan=<http://dbpedia.org/resource/Category:American_economics_writers>=135
+William_D._Cohan=<http://dbpedia.org/resource/Category:Duke_University_alumni>=690
+William_D._Cohan=<http://dbpedia.org/resource/Category:American_investigative_journalists>=152
+William_D._Cohan=<http://dbpedia.org/resource/Category:American_business_writers>=180
+William_D._Cohan=<http://dbpedia.org/resource/Category:American_magazine_journalists>=17
+William_D._Cohan=<http://en.wikipedia.org/wiki/William_D._Cohan>=1
+William_D._Cohan=William D. Cohan=1

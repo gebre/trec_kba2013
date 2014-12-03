@@ -1,0 +1,54 @@
+!SESSION 2013-07-03 12:26:14.034 -----------------------------------------------
+eclipse.buildId=4.2.0.M20130320-1959
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-07-03 12:26:47.947
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}
+!SESSION 2013-07-03 13:01:03.364 -----------------------------------------------
+eclipse.buildId=4.2.0.M20130320-1959
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /export/scratch2/TREC-kba/TREC-KBA-2013/codes/cwi-trec/TRECKBA -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-07-03 13:01:06.458
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}
+!SESSION 2013-10-17 12:54:08.709 -----------------------------------------------
+eclipse.buildId=4.2.0.M20130701-1255
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /export/scratch2/TREC-kba/TREC-KBA-2013/codes/cwi-trec/TRECKBA -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2013-10-17 12:54:11.853
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}
+!SESSION 2014-02-06 17:31:04.464 -----------------------------------------------
+eclipse.buildId=4.2.0.M20131216-0656
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2014-02-06 17:31:11.154
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}
+!SESSION 2014-02-12 14:17:13.055 -----------------------------------------------
+eclipse.buildId=4.2.0.M20131216-0656
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2014-02-12 14:17:20.125
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}
+!SESSION 2014-03-10 11:32:04.006 -----------------------------------------------
+eclipse.buildId=4.2.0.M20131216-0656
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui 4 4 2014-03-10 11:32:10.590
+!MESSAGE Conflicting handlers for org.eclipse.ptp.pldt.openshmem.command4: {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler} vs {org.eclipse.ptp.pldt.openshmem.actions.RunAnalyseOpenSHMEMcommandHandler}

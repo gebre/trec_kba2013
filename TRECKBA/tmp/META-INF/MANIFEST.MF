@@ -1,0 +1,538 @@
+Manifest-Version: 1.0
+Created-By: Fat Jar Eclipse Plug-In
+
+
+
+
+
+
+
+
+Name: org.apache.log4j
+DynamicImport-Package: *
+Implementation-Vendor: "Apache Software Foundation"
+Implementation-Title: log4j
+Implementation-Version: 1.2.17
+
+
+
+
+Name: org/apache/tools/ant/
+Extension-name: org.apache.tools.ant
+Specification-Title: Apache Ant
+Specification-Version: 1.6.5
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: org.apache.tools.ant
+Implementation-Version: 1.6.5
+Implementation-Vendor: Apache Software Foundation
+
+
+
+
+
+
+Name: org/apache/commons/httpclient
+Extension-name: org.apache.commons.httpclient
+Specification-Title: Jakarta Commons HttpClient
+Specification-Vendor: Apache Software Foundation
+Specification-Version: 3.1
+Implementation-Title: org.apache.commons.httpclient
+Implementation-Vendor: Apache Software Foundation
+Implementation-Version: 3.1
+Implementation-Vendor-Id: org.apache
+X-Compile-Source-JDK: 1.2
+X-Compile-Target-JDK: 1.2
+
+
+
+
+Name: org/apache/hadoop
+Implementation-Title: Hadoop
+Implementation-Version: 0.20.2-cdh3u6
+Implementation-Vendor: Apache
+
+
+
+
+
+
+
+
+
+
+
+
+Name: com.sun.xml.bind.v2.runtime
+Implementation-Version: 2.2.3-hudson-jaxb-ri-2.2.3-3-
+
+
+
+
+
+
+
+
+
+Name: javax/servlet/jsp/
+Specification-Title: Java API for JavaServer Pages
+Specification-Version: 2.0
+Specification-Vendor: Sun Microsystems, Inc.
+Implementation-Title: javax.servlet.jsp
+Implementation-Version: 2.0.public_draft
+Implementation-Vendor: Apache Software Foundation
+
+
+
+
+Name: org/apache/oro
+Specification-Title: Jakarta ORO
+Specification-Version: 2.0.8
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: org.apache.oro
+Implementation-Version: 2.0.8 2003-12-28 11:00:13
+Implementation-Vendor: Apache Software Foundation
+
+
+
+
+
+
+
+Name: xmlenc
+Specification-Title: xmlenc
+Specification-Version: 0.52
+Specification-Vendor: Ernst de Haan
+Implementation-Title: xmlenc
+Implementation-Version: 0.52
+Implementation-Vendor: Ernst de Haan
+
+
+
+
+
+
+
+
+
+
+
+Name: org/jdom/
+Specification-Title: JDOM Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/input/
+Specification-Title: JDOM Input Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.input
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/output/
+Specification-Title: JDOM Output Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.output
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/adapters/
+Specification-Title: JDOM Adapter Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.adapters
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/filter/
+Specification-Title: JDOM Filter Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.filter
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/transform/
+Specification-Title: JDOM Transformation Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.transform
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+Name: org/jdom/xpath/
+Specification-Title: JDOM XPath Classes
+Specification-Version: 1.0
+Specification-Vendor: jdom.org
+Implementation-Title: org.jdom.xpath
+Implementation-Version: 1.0
+Implementation-Vendor: jdom.org
+
+
+
+
+Name: org/apache/xmlcommons/Version
+Comment: XmlCommonsExternal for http://xml.apache.org/ subproject's use
+Implementation-Title: org.apache.xmlcommons.Version
+Implementation-Version: 1.2.01
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: org/xml/sax/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Simple API for XML
+Specification-Vendor: David Megginson
+Specification-Version: 2.0.1
+Implementation-Title: org.xml.sax
+Implementation-Version: 2.0.1
+Implementation-Vendor: David Megginson
+Implementation-URL: http://www.saxproject.org/
+
+Name: org/w3c/dom/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Document Object Model, Level 2 Core
+Specification-Vendor: World Wide Web Consortium
+Specification-Version: 1.0
+Implementation-Title: org.w3c.dom
+Implementation-Version: 1.0
+Implementation-Vendor: World Wide Web Consortium
+Implementation-URL: http://www.w3c.org/DOM/
+
+Name: javax/xml/parsers/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.2
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.2.01
+Implementation-Vendor: Sun Microsystems Inc.
+Implementation-URL: http://java.sun.com/xml/jaxp.html
+
+Name: javax/xml/transform/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.2
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.2.01
+Implementation-Vendor: Sun Microsystems Inc.
+Implementation-URL: http://java.sun.com/xml/jaxp.html
+
+
+Name: nu/xom/
+Sealed: true
+Specification-Title: XOM core classes
+Implementation-Title: nu.xom
+Implementation-Version: 1.1
+Implementation-Vendor: Elliotte Rusty Harold
+
+Name: org/jaxen/
+Specification-Title: Jaxen XPath engine
+Implementation-Title: org.jaxen
+Implementation-Version: 1.1d4
+Implementation-Vendor: CodeHaus
+
+Name: nu/xom/xslt/
+Sealed: true
+Specification-Title: XOM XSLT interface
+Implementation-Title: nu.xom.xslt
+
+Name: nu/xom/xinclude/
+Sealed: true
+Specification-Title: XOM XInclude engine
+Implementation-Title: nu.xom.xinclude
+
+Name: nu/xom/converters/
+Sealed: true
+Specification-Title: XOM converters to other object models
+Implementation-Title: nu.xom.converters
+
+Name: nu/xom/canonical/
+Sealed: true
+Specification-Title: XOM Canonical XML support
+Implementation-Title: nu.xom.canonical
+
+
+Name: org/apache/xml/serializer/
+Comment: Serializer to write out XML, HTML etc. as a stream of charact
+ ers from an input DOM or from input SAX events.
+Specification-Title: XSL Transformations (XSLT), at http://www.w3.org/
+ TR/xslt
+Specification-Vendor: W3C Recommendation 16 November 1999
+Specification-Version: 1.0
+Implementation-Title: org.apache.xml.serializer
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/xalan-j/usagepatterns.html
+
+Name: org/apache/xml/serializer/utils/
+Comment: Utilities used internally by the Serializer. Not for external
+  use.
+Implementation-Title: org.apache.xml.serializer.utils
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+
+
+Name: org/apache/xalan/
+Comment: Main Xalan engine implementing TrAX/JAXP
+Specification-Title: Java API for XML Processing
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Version: 1.3
+Implementation-Title: org.apache.xalan
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/xalan-j/
+
+Name: org/apache/xpath/
+Comment: XPath engine
+Implementation-Title: org.apache.xpath
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/xalan-j/
+
+Name: org/apache/xml/
+Comment: DTM implementation and utilities
+Implementation-Title: org.apache.xml
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/xalan-j/
+
+Name: org/apache/xalan/xsltc/
+Comment: Main XSLTC engine implementing TrAX/JAXP
+Specification-Title: Java API for XML Processing
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Version: 1.3
+Implementation-Title: org.apache.xalan.xsltc
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/xalan-j/
+
+Name: java_cup/runtime/
+Comment: Runtime component of JCup
+Specification-Title: Runtime component of JCup
+Specification-Vendor: Princeton University
+Specification-Version: 0.10k
+Implementation-Title: runtime
+Implementation-Version: 2.7.1
+Implementation-Vendor: Princeton University
+Implementation-URL: http://www.cs.princeton.edu/~appel/modern/java/CUP/
+
+Name: org/apache/bcel/
+Comment: Byte Code Engineering Library
+Specification-Title: Byte Code Engineering Library
+Specification-Vendor: Markus Dahm
+Specification-Version: 5.0 rc1
+Implementation-Title: org.apache.bcel
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://jakarta.apache.org/bcel
+
+Name: org/apache/regexp/
+Comment: Java Regular Expression package
+Specification-Title: Java Regular Expression package
+Specification-Vendor: Apache Software Foundation
+Specification-Version: 1.2
+Implementation-Title: org.apache.regexp
+Implementation-Version: 2.7.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://jakarta.apache.org/regexp
+
+
+Name: org/apache/xerces/impl/Version.class
+Comment: Xerces-J 2.9.1
+Implementation-Title: org.apache.xerces.impl.Version
+Implementation-Version: 2.9.1
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xerces.apache.org/xerces2-j/
+
+Name: org/xml/sax/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Simple API for XML
+Specification-Vendor: David Megginson
+Specification-Version: 2.0.2
+Implementation-Title: org.xml.sax
+Implementation-Version: 2.0.2
+Implementation-Vendor: David Megginson
+Implementation-URL: http://www.saxproject.org/
+
+Name: org/w3c/dom/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Document Object Model, Level 3 Core
+Specification-Vendor: World Wide Web Consortium
+Specification-Version: 1.0
+Implementation-Title: org.w3c.dom
+Implementation-Version: 1.0
+Implementation-Vendor: World Wide Web Consortium
+Implementation-URL: http://www.w3c.org/DOM/
+
+Name: org/w3c/dom/ls/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Document Object Model, Level 3 Load and Save
+Specification-Vendor: World Wide Web Consortium
+Specification-Version: 1.0
+Implementation-Title: org.w3c.dom.ls
+Implementation-Version: 1.0
+Implementation-Vendor: World Wide Web Consortium
+Implementation-URL: http://www.w3c.org/DOM/
+
+Name: javax/xml/datatype/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.datatype
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/parsers/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.parsers
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/transform/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/validation/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.validation
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/xpath/
+Comment: based on xml-commons external 1.3.04
+Specification-Title: Java API for XML Processing
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.xpath
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: org/apache/xerces/xni/
+Comment: Xerces Native Interface
+Specification-Title: Xerces Native Interface
+Specification-Version: 1.2
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: org.apache.xerces.xni
+Implementation-Version: 1.2
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xerces.apache.org/xerces2-j/
+
+
+Name: org/apache/xmlcommons/Version
+Comment: XmlCommonsExternal for http://xml.apache.org/ subproject's use
+Implementation-Title: org.apache.xmlcommons.Version
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: org/xml/sax/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Simple API for XML
+Specification-Vendor: David Megginson
+Specification-Version: 2.0.2 (sax2r3)
+Implementation-Title: org.xml.sax
+Implementation-Version: 2.0.2
+Implementation-Vendor: David Megginson
+Implementation-URL: http://www.saxproject.org/
+
+Name: org/w3c/dom/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Document Object Model (DOM) Level 3 Core
+Specification-Vendor: World Wide Web Consortium
+Specification-Version: 1.0
+Implementation-Title: org.w3c.dom
+Implementation-Version: 1.0
+Implementation-Vendor: World Wide Web Consortium
+Implementation-URL: http://www.w3c.org/DOM/
+
+Name: org/w3c/dom/ls/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: Document Object Model (DOM) Level 3 Load and Save
+Specification-Vendor: World Wide Web Consortium
+Specification-Version: 1.0
+Implementation-Title: org.w3c.dom.ls
+Implementation-Version: 1.0
+Implementation-Vendor: World Wide Web Consortium
+Implementation-URL: http://www.w3c.org/DOM/
+
+Name: javax/xml/parsers/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: JSR 206, Java API for XML Processing 1.3
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.parsers
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/transform/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: JSR 206 Java API for XML Processing 1.3
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.transform
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/validation/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: JSR 206 Java API for XML Processing 1.3
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.validation
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/datatype/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: JSR 206 Java API for XML Processing 1.3
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.datatype
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+Name: javax/xml/xpath/
+Comment: xml-commons for http://xml.apache.org/ subproject's use
+Specification-Title: JSR 206 Java API for XML Processing 1.3
+Specification-Version: 1.3
+Specification-Vendor: Sun Microsystems Inc.
+Implementation-Title: javax.xml.xpath
+Implementation-Version: 1.3.04
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+
+Name: org/apache/xml/resolver
+Comment: xml-commons Resolver code
+Implementation-Title: org.apache.xml.resolver.Catalog
+Implementation-Version: 1.2
+Implementation-Vendor: Apache Software Foundation
+Implementation-URL: http://xml.apache.org/commons/
+
+

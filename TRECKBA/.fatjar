@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri May 23 13:22:15 CEST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TRECKBA2013-in_2014.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
